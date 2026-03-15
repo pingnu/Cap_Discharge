@@ -414,7 +414,7 @@
         "uuid": "af77988a-9018-4385-85a7-57f82d94a298"
       }
     ],
-    "used_designators": "U53,T51",
+    "used_designators": "U53,#PWR3-7,T51,R2-5,C2,Q2",
     "variants": []
   },
   "sheets": [
